@@ -6,6 +6,6 @@ El pasado jueves, 19 de septiembre, los ejercicios asignados fueron los siguient
 Almacene estos números primos en un arreglo y, al finalizar, muestre en consola el contenido del arreglo.
 Los intervalos de ejemplo son 1-20 y 30-100.
 
-**Ejercicio 2:** Desarrolle una función que determine si una cadena de caracteres está compuesta exclusivamente por caracteres específicos y que no contenga espacios (" ").
+**Ejercicio 2:** Desarrolle una función que determine si una cadena de caracteres está compuesta exclusivamente por caracteres específicos y que no contenga espacios (" "). Cuando no contenga " " retorna True y viceversa.
 
 Los ejercicios se desarrollaron en lenguaje C y Python.
